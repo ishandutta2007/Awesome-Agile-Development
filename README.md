@@ -9,7 +9,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/ishandutta2007/Awesome-Agile-Development/pulls)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/ishandutta2007/Awesome-Agile-Development/graphs/commit-activity)
-[![GitHub Stars](https://img.shields.io/github/stars/ishandutta2007/Awesome-Agile-Development?style=social)](https://github.com/ishandutta2007/Awesome-Agile-Development/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/ishandutta2007/Awesome-Agile-Development?style=social)](https://github.com/ishandutta2007/Awesome-Agile-Development/stargazers)
 <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 
 <p align="center">
@@ -58,7 +58,7 @@ Commercial and proprietary Agile project management suites, sorted descending by
 
 Self-hosted, transparent, and community-driven Agile and Kanban tools, sorted descending by GitHub stargazers.
 
-| Project | Stars | Tech Stack | License | Description |
+| Project | GitHub_Stars | Tech Stack | License | Description |
 |:---|:---:|:---|:---|:---|
 | 🚀 **[Plane](https://plane.so)** | [![Stars](https://img.shields.io/github/stars/makeplane/plane?style=social&color=white)](https://github.com/makeplane/plane/stargazers) | TypeScript, Python, Django | AGPL-3.0 | Modern open-source project management platform alternative to Jira and Linear with cycles, modules, issue boards, and analytics. |
 | 📋 **[Focalboard](https://www.focalboard.com)** | [![Stars](https://img.shields.io/github/stars/mattermost-community/focalboard?style=social&color=white)](https://github.com/mattermost-community/focalboard/stargazers) | Go, TypeScript, React | AGPL-3.0 | Self-hosted multilingual project management and Kanban board alternative to Trello, Notion, and Asana created by Mattermost. |
@@ -90,7 +90,7 @@ Contributions are warmly welcomed! Please check out the guidelines below:
 1. 🍴 Fork this repository.
 2. 🌿 Create your feature branch (`git checkout -b feature/agile-tool`).
 3. ✍️ Ensure SaaS entries contain verified pricing, free tier specs, and company valuation data.
-4. ⭐ Ensure Open-Source entries include a valid GitHub star badge link and repository metadata.
+4. ⭐ Ensure Open-Source entries include a valid GitHub Stars_Badge link and repository metadata.
 5. 🚀 Commit your changes (`git commit -m 'feat: add agile tool'`).
 6. 📬 Open a Pull Request!
 
