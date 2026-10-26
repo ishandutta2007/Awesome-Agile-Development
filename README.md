@@ -4,11 +4,13 @@
 
 # 🚀 Awesome Agile Development
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+<a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?ttyle=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+[![Awesome](https://awesome.re/badge.svg)](https://github.com/ishandutta2007/Awesome-Awesome-Awesome)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/ishandutta2007/Awesome-Agile-Development/pulls)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/ishandutta2007/Awesome-Agile-Development/graphs/commit-activity)
 [![GitHub Stars](https://img.shields.io/github/stars/ishandutta2007/Awesome-Agile-Development?style=social)](https://github.com/ishandutta2007/Awesome-Agile-Development/stargazers)
+<a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 
 <p align="center">
   <strong>A curated list of top Agile development platforms, Scrum & Kanban software, enterprise project management tools, and modern self-hosted open-source alternatives.</strong>
@@ -19,6 +21,8 @@
   <a href="#-enterprise--commercial-saas-platforms">SaaS Platforms</a> •
   <a href="#-open-source-agile--scrum-platforms">Open-Source Platforms</a> •
   <a href="#-key-methodologies-covered">Methodologies</a> •
+  <a href="#-support">Support</a> •
+  <a href="#-star-history">Star History</a> •
   <a href="#-contributing">Contributing</a>
 </p>
 
@@ -89,6 +93,22 @@ Contributions are warmly welcomed! Please check out the guidelines below:
 4. ⭐ Ensure Open-Source entries include a valid GitHub star badge link and repository metadata.
 5. 🚀 Commit your changes (`git commit -m 'feat: add agile tool'`).
 6. 📬 Open a Pull Request!
+
+---
+
+## 💖 Support
+
+Thank you for exploring and using **Awesome Agile Development**! If you find this curated resource helpful:
+- ⭐ **Star** this repository to help others discover it!
+- 🍴 **Fork** and share it with your agile team, colleagues, and community!
+- 📢 **Spread the word** across social media, developer communities, and agile networks!
+- ☕ **Buy me a coffee / Sponsor**: Support continued curation and open-source maintenance via the [GitHub Sponsor Dashboard](https://github.com/sponsors/ishandutta2007).
+
+---
+
+## 📈 Star History
+
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Agile-Development&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Agile-Development&type=date&legend=top-left)
 
 ---
 
